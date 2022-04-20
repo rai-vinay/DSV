@@ -12,3 +12,4 @@ fetch('https://swapi.dev/api/')
     console.warn('Something went wrong.', err);
   });
 // console.log(x);
+
